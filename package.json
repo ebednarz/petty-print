@@ -1,0 +1,19 @@
+{
+  "name": "petty-print",
+  "version": "0.0.1",
+  "description": "Cheerful logging",
+  "author": "Eric Bednarz <github@bednarz.nl>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ebednarz/petty-print.git"
+  },
+  "keywords": [
+    "cli",
+    "console"
+  ],
+  "main": "./library/",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^0.5.1"
+  }
+}
