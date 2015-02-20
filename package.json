@@ -1,6 +1,6 @@
 {
   "name": "petty-print",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cheerful logging",
   "author": "Eric Bednarz <github@bednarz.nl>",
   "repository": {
