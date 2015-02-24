@@ -14,6 +14,6 @@
   "main": "./library/",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^0.5.1"
+    "chalk": "^1.0.0"
   }
 }
